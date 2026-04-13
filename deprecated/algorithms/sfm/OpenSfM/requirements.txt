@@ -5,7 +5,7 @@ loky==1.2.1
 networkx==1.11
 numpy
 pyproj==1.9.5.1
-pytest==3.0.7
+pytest==9.0.3
 python-dateutil==2.6.0
 PyYAML==3.12
 repoze.lru==0.7
